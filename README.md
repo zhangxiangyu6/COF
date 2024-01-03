@@ -1,7 +1,7 @@
 # MOF-
-Requirement
-        1.Python 3.7, 3.8, 3.9
-        2.scikit-opt (pip install scikit-opt)
+Requirement        
+1.Python 3.7, 3.8, 3.9
+2.scikit-opt (pip install scikit-opt)
 Run
        python run.py
 Result
